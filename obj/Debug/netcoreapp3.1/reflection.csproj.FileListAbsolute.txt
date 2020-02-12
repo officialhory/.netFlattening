@@ -1,0 +1,11 @@
+/home/hory/git/reflection/bin/Debug/netcoreapp3.1/reflection
+/home/hory/git/reflection/bin/Debug/netcoreapp3.1/reflection.deps.json
+/home/hory/git/reflection/bin/Debug/netcoreapp3.1/reflection.runtimeconfig.json
+/home/hory/git/reflection/bin/Debug/netcoreapp3.1/reflection.runtimeconfig.dev.json
+/home/hory/git/reflection/bin/Debug/netcoreapp3.1/reflection.dll
+/home/hory/git/reflection/bin/Debug/netcoreapp3.1/reflection.pdb
+/home/hory/git/reflection/obj/Debug/netcoreapp3.1/reflection.csprojAssemblyReference.cache
+/home/hory/git/reflection/obj/Debug/netcoreapp3.1/reflection.AssemblyInfoInputs.cache
+/home/hory/git/reflection/obj/Debug/netcoreapp3.1/reflection.AssemblyInfo.cs
+/home/hory/git/reflection/obj/Debug/netcoreapp3.1/reflection.dll
+/home/hory/git/reflection/obj/Debug/netcoreapp3.1/reflection.pdb
