@@ -66,13 +66,11 @@ namespace reflection
                 }
 
             }
-            else // if (obj.GetType().Name == "String" || obj.GetType().Name == "Int32")
+            else
             { 
-                
                 if (link == null) return;
                 dic.Add(link, obj.ToString());
                 Console.WriteLine($"{link}.{obj}");
-                // return;
             }
         }
     }
